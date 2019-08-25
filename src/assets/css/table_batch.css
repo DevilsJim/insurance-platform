@@ -1,0 +1,88 @@
+.insuranceBox {
+  padding: 63px 125px 0;
+}
+.bthBox {
+  text-align: left;
+  margin-bottom: 25px;
+}
+.el-button+.el-button {
+  margin-left: 30px;
+}
+.searchCondition {
+  margin-bottom: 30px;
+}
+.el-col {
+  text-align: left;
+}
+.searchBtn {
+  color: #fff;
+  background: #9a98e4;
+}
+.searchBtn:hover {
+  color: #fff;
+  background: #9a98e4;
+}
+.reset {
+  color: #fff;
+  background: #c6cad0;
+}
+.reset:hover {
+  color: #fff;
+  background: #c6cad0;
+}
+.el-pagination {
+  text-align: right;
+  padding:13px 10px;
+}
+.tableBox{
+  width:100%;
+}
+.w130 {
+  width: 155px;
+}
+.batchList{
+  height:30px;
+  line-height:30px;
+  border-bottom:1px solid #ebeef5;
+}
+
+
+
+.el-form-item .el-form-item__label {
+  max-width: 110px;
+  overflow: hidden;
+  white-space:nowrap;
+  text-overflow: ellipsis;
+}
+.el-form--inline .el-form-item {
+  margin-right: 0 !important;
+  margin-bottom: 0 !important;
+}
+.el-form-item{
+  margin-bottom:0;
+}
+.m_t10,.el-row {
+  margin-top: 15px;
+}
+.block{
+  text-align:left;
+  padding-left:15px;
+}
+.demonstration{
+  line-height: 40px;
+  font-size: 14px;
+  color: #606266;
+}
+.el-table th>.cell{
+  font-weight:600;
+}
+.el-date-editor--daterange.el-input__inner{
+  width:246px;
+  margin-top:4px;
+}
+.el-dialog{
+  width:900px;
+}
+.w131 .el-input__inner{
+  padding-right:0;
+}
